@@ -1,7 +1,7 @@
 # Hvulnerata
 Hetaerina vulnerata ddRADseq processing and analyses
 
-This project was apart of my master's thesis research at Texas Tech University. I was interested in using reduced representation sequencing (ddRADseq) to investigate population structuring and how landscape features impede gene flow, using Hetaerina vulnerata (Canyon Rubyspot damselfly) as a model taxon. In conjunction with the genomic data, I used SDMs to estimate a prior structuring and how historical, current, and future climate projections should affect their distributions. 
+This project was apart of my master's thesis research at Texas Tech University. I was interested in using reduced representation sequencing (ddRADseq) to investigate population structuring and how landscape features impede gene flow, using Hetaerina vulnerata (Canyon Rubyspot damselfly) as a model taxon. In conjunction with the genomic data, I used SDMs to estimate a priori structuring and how historical, current, and future climate projections should affect their distributions. 
 
 Along with the commonly used bioclimatic niche modeling, I also used a Grinnellian niche model approach (included habitat predictors along with bioclimatic). Thus, this project combines neutral population structuring with fine-scale thematic SDMs to elucidate how landscape features isolate these damselflies, as well as potential other similar habitat specialists. 
 
