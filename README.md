@@ -5,6 +5,6 @@ This project was apart of my master's thesis research at Texas Tech University. 
 
 Along with the commonly used bioclimatic niche modeling, I also used a Grinnellian niche model approach (included habitat predictors along with bioclimatic). Thus, this project combines neutral population structuring with fine-scale thematic SDMs to elucidate how landscape features isolate these damselflies, as well as potential other similar habitat specialists. 
 
-To get started, I have the Stacks pipeline parameters used for this project in bash script (though I suggest doing it iteratively). After completing the pipeline, I have various scripts in a RMarkDown for downstream analyses. Likewise, SDM construction scripts are provided in the same file. 
+To get started, I have the Stacks pipeline parameters used for this project in bash script (though I suggest doing it iteratively). After completing the pipeline, I have various scripts in a R script for downstream analyses. Likewise, SDM construction scripts are provided in the same file. 
 
 For any inquiries about this project or approach I used, please contact me at abiddy@uab.edu, as I am the one who maintains and contributes to this project. 
