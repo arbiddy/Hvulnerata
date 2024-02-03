@@ -1,1 +1,1 @@
-Current Grinnellian niche environmental layers for MaxEnt. 
+Current Grinnellian niche variables used for MaxEnt.
