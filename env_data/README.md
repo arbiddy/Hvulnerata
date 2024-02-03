@@ -1,4 +1,4 @@
-Within this directory are the environmental data layers (ASCII format) that were used for constructing SDMs and for Maximum Likelihood Population Estimation (MLPE) models. 
+Within this directory are the environmental data layers (ASCII format) that were used for constructing SDMs and for Maximum Likelihood Population Estimation (MLPE) models for Hetaerina vulnerata. 
 
 For Last Glacial Maximum (LGM) and Mid-Holocene (MH) projections, we used the CCSM general circulation model.
 
