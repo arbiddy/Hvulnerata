@@ -1,1 +1,1 @@
-Current bioclimatic variables used for MaxEnt.
+Current bioclimatic niche variables used for MaxEnt.
